@@ -10,7 +10,7 @@ public class Test {
 		System.out.print("3rd");
 		System.out.print("4th");
 		System.out.print("5th");
-		System.out.print("6t 22dddh");
+		System.out.print("6t 22d333ddh");
 		
 		
 	}
